@@ -1,11 +1,8 @@
 ### Heisann 👋
 
 Jeg heter Julie, er 25 år og bor i Bergen.
-
 Begynte mitt kode eventyr Juni 2022, og begynte på KodeHode August 2022.
-
 Liker å lære nye ting og lærer nye ting fort.
-
 Fritiden går til gaming, boklesing og koding.
 
 ## Current's
