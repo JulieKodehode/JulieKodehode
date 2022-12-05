@@ -1,15 +1,23 @@
 ### Heisann 👋
 
 Jeg heter Julie, er 25 år og bor i Bergen.
+
 Begynte mitt kode eventyr Juni 2022, og begynte på KodeHode August 2022.
+
 Liker å lære nye ting og lærer nye ting fort.
+
 Fritiden går til gaming, boklesing og koding.
 
 ## Current's
+
 🔭 I’m currently working on: My portfolio
+
 🌱 I’m currently learning: React
+
 💬 Ask me about: Work prospects
+
 📫 How to reach me: julie.kodehode@gmail.com
+
 ⚡ Fun fact: I used to be a hairstylist, and creativity is my drive in life
 
 <!--
